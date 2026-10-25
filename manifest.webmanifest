@@ -1,0 +1,17 @@
+{
+  "name": "MAS Coaching Academy",
+  "short_name": "MAS Academy",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f6f9",
+  "theme_color": "#0b6b4f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
